@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)(https://petersaba.io)
+[![MasterHead](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
 <h1 align="center">Hi 👋, I'm Peter Saba</h1>
 <h3 align="center">A passionate junior developper from Lebanon</h3>
 
