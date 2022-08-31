@@ -24,5 +24,5 @@ I am a Computer Science student at the Lebanese University, I am passionate abou
 
 
 <p>&nbsp;
-<img align="left" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="200px" width="350px" alt="code gif">
+<img align="left" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="200px" width="300px" alt="code gif">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=petersaba&show_icons=true&locale=en" alt="petersaba" /></p>
