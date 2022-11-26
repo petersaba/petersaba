@@ -16,7 +16,7 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
-I am a Computer Science student at the Lebanese University, I am passionate about the backend and data science fields. I always work on improving myself and my programming skills while learning technologies.</p> 
+I am a Computer Science student at the Lebanese University, I am passionate about the <b>backend</b> and data science fields. I always work on improving myself and my programming skills while learning technologies.</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
