@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **petersaba001@gmail.com**
 
