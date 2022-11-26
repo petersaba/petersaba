@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Saba</h1>
-<h3 align="center">A passionate junior developper from Lebanon</h3>
+<h3 align="center">A passionate junior developer from Lebanon</h3>
 
 <img align="right" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" height="300px" alt="code gif">
 
